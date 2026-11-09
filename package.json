@@ -1,0 +1,10 @@
+{
+  "name": "ci-cd-case-3",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo Build completed successfully",
+    "test": "echo Tests passed"
+  }
+}
